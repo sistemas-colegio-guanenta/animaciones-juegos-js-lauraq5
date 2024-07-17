@@ -19,3 +19,9 @@
 - Se verifica que el contexto se haya creado de manera exitosa, dando la bienvenida por medio de un alert(), o advirtiendo un error de creación de contexto.
 
 ![captura01](img/1.png)
+![captura01](img/2.png)
+![captura01](img/3.png)
+![captura01](img/4.png)
+![captura01](img/5.png)
+![captura01](img/6.png)
+![captura01](img/7.png)
